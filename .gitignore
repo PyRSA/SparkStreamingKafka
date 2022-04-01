@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### macOS template
+.DS_Store
+
+### Maven template
+target/
+checkpoint/
+
+### JetBrains template
+.idea/
+*.iml
+out/
+
+### Scala template
+*.class
+*.log
+
