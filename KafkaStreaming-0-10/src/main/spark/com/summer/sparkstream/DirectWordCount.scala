@@ -1,4 +1,4 @@
-package com.summeer.sparkstream
+package com.summer.sparkstream
 
 import org.apache.kafka.clients.consumer.{ConsumerConfig, ConsumerRecord}
 import org.apache.kafka.common.serialization.StringDeserializer
